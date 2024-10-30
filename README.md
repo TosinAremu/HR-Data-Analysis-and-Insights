@@ -34,11 +34,11 @@ Well trained employees feel more confident and secure in their roles, leading to
 Designing Effective Training and Development Programs:
 - Assessing Training Needs: Conduct a thorough assessment to identify the skills and knowledge gaps within your organisation. This can be done through surveys, interviews, performance reviews, and feedback from managers.
 - Setting Clear Objectives: Define clear, measurable objectives for your training programs.
-- Utilising Various Training Methods: This invoilves different learning style methods like;
-1. Workshops and Seminars
-2. E-learning
-3. On the Job Training
-4. Mentorship Programs
+- Utilising Various Training Methods: This invoilves different learning style methods like
+  1. Workshops and Seminars
+  2. E-learning
+  3. On the Job Training
+  4. Mentorship Programs
 - Encouraging Continuous Learning:Promote a culture of continuous learning by providing access to ongoing training opportunities.
 - Evaluating and Improving Programs Regularly assess the effectiveness of your training programs through feedback, performance metrics, and retention rates.
 
