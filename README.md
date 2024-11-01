@@ -5,49 +5,64 @@
 ### Project Objective
 The goal of this HR data is to analyse employee data to uncover patterns related to attrition, job satisfaction, and other HR metrics. The insights gained can guide organizational strategies to improve employee retention, satisfaction, and overall HR management.
 
-#### Project 1: Attrition Analysis
+#### Attrition Analysis
 There are several factors contributing to employee attrition, which are some of the listed below.
 - Pay benefits: Staff who feel they are not paid fairly or that some other company will pay them higher, will lead to them being dissatisfied. This eventually causes them to leave.
 - Role mismanagement: This can happen when the employee perceives their job scope to be ambiguous or disconnected.
 - Workload: If an employee is overloaded with work, it could cause high stress levels, decreased productivity, and potential resignation. Contrastingly, if employees have limited tasks, they feel disengaged from the workplace and would seek opportunities elsewhere.
 -  Manager's Attitude: Employees might choose to leave if they struggle with their manager’s ineffective leadership or mismanagement style.
 
-#### Strategies to Improve retention.
-Many factors contribute to employee retention, such as;
-- Offering competitive salaries and benefits.
--  Opportunities for career growth.
-- Appreciation for employees' hard work.
-- Encouraging open communication and
-- Creating a positive workplace culture are additional ways to improve retention.
+#### 1. Overall Attrition Metrics
+  - Total Employees: 1,470
+  -	Total Attrition Count: 237, representing an attrition rate of 16%.
+  - Current Employees: 1,233
+  - Average Age: 37 years
 
-#### Project 2: Job Satisfaction and Employee Engagement
-Job satisfaction is one of the most important factors affecting employee engagement. If employees don’t feel satisfied in their job, it’s very difficult for them to feel engaged when at work.
-How to Improve Employee Engagement:
-- Sense of Meaning and Purpose: Employees who find their work meaningful will be more interested and engaged when they are on the job.
-- Company Culture: A work culture that is welcoming, energetic, and positive will be more likely to have employees who are engaged in their work than employees who become negative and stressed out.
-- Work Environment: The work environment also makes the list of factors of employee engagement.
-- Flexible Schedules: A flexible schedule, which could mean working from home some days or starting work at an earlier or later time, means they can drop their children off at school or pick them up when necessary.
-- Cultural Diversity: Employees from several backgrounds, cultures, religions, and beliefs bring different points of view into the workplace. They help to create a workplace culture that is more tolerant and understanding than one where all employees come from a similar background.
+A 16% attrition rate indicates that the company experiences moderate employee turnover. This could be a concern if certain departments or roles have higher attrition rates, as they may be experiencing particular challenges or dissatisfaction.
 
-#### Project 3: Career Development and Training Impact
-Well trained employees feel more confident and secure in their roles, leading to higher job satisfaction. This increased fulfilment makes them less likely to seek opportunities elsewhere, resulting in improved retention.
-Designing Effective Training and Development Programs:
-- Assessing Training Needs: Conduct a thorough assessment to identify the skills and knowledge gaps within your organisation. This can be done through surveys, interviews, performance reviews, and feedback from managers.
-- Setting Clear Objectives: Define clear, measurable objectives for your training programs.
-- Utilising Various Training Methods: This invoilves different learning style methods like
-  1. Workshops and Seminars
-  2. E-learning
-  3. On the Job Training
-  4. Mentorship Programs
-- Encouraging Continuous Learning:Promote a culture of continuous learning by providing access to ongoing training opportunities.
-- Evaluating and Improving Programs Regularly assess the effectiveness of your training programs through feedback, performance metrics, and retention rates.
+#### 2. Attrition by Department
+  - HR: 133 attritions, which is 56.1% of total attrition.
+  - Sales: 92 attritions, 38.8%.
+  - R&D: 12 attritions, 5.1%.
 
-##### Benefits of Investing in Training and Development
-- Increased Retention Rates
-- Enhanced Skills and Productivity
-- Improved Employee Morale
-- Attracting Top Talent
-- Competitive Advantage
+High attrition in HR and Sales suggests potential issues in these departments, possibly related to job satisfaction, workload, or compensation. R&D has a much lower attrition rate, which might imply more stability or better employee satisfaction in that department.
+
+#### 3. Attrition by Educational Field
+  - Attrition numbers across fields show that Life Sciences and Human Resources have relatively high attrition counts, while Marketing and Medical fields show moderate numbers.
+  - Employees with backgrounds in fields such as Life Sciences, Marketing, and Human Resources may require additional retention strategies, especially if these skills are critical to the company’s success.
+
+#### 4. Attrition by Gender
+  - Male: 150 attritions (63.3%).
+  - Female: 87 attritions (36.7%).
+
+Males are experiencing a higher rate of attrition compared to females. This could be due to various reasons, such as job role challenges, satisfaction, or potential external opportunities more accessible to males in this specific company context.
+
+#### 5. Attrition by Age Group
+  - Under 25: 38 (27 males, 11 females)
+  - 25-34: 61 (43 males, 18 females)
+  - 35-44: 23 (14 males, 9 females)
+  - 45-54: 9 (1 male, 8 females)
+  - Over 55: 11 (8 males, 3 females)
+
+The majority of attrition is occurring among employees aged 25-34 and under 25. Younger employees might be more transient, seeking career growth or new opportunities elsewhere. This high turnover rate in younger age groups might indicate a need for improved onboarding, training, and engagement for new and early-career employees.
+
+#### 6. Job Role and Satisfaction Analysis
+  - Employees in Laboratory Technician and Research Scientist roles seem to have the highest attrition.
+  - Dissatisfaction rates are relatively high across roles, but especially noticeable for Healthcare Representative and Sales Executive positions.
+  - Job satisfaction levels vary, with a significant number of employees marking “Dissatisfied” and “Satisfied” rather than “Very Satisfied.” This might suggest that improvements in workplace culture, compensation, or work-life balance could help elevate satisfaction levels.
+
+#### 7. Marital Status of Employees
+  - The majority of employees are married (718), followed by single (198). Divorced employees are significantly fewer.
+  - Marital status could impact employee needs, with married employees potentially valuing stability and work-life balance. Tailoring benefits and policies that address these needs could positively influence retention, especially for employees in departments with high attrition.
+
+#### 8. Educational Field Distribution
+  - Employees are distributed across various fields with Life Sciences, Human Resources, and Marketing making up the largest numbers.
+  - Employees from Medical and Other fields also represent significant portions, suggesting a diverse educational background in the workforce. This diversity could be a strength, but may also present unique challenges in aligning engagement and retention strategies.
+
+
+
+
+
 
 
 
