@@ -69,8 +69,8 @@ Males are experiencing a higher rate of attrition compared to females. This coul
 The majority of attrition is occurring among employees aged 25-34 and 35-44. Younger employees might be more transient, seeking career growth or new opportunities elsewhere. This high turnover rate in younger age groups might indicate a need for improved onboarding, training, and engagement for new and early-career employees.
 
 #### 6. Job Role and Satisfaction Analysis
-  - Employees in Laboratory Technician and Research Scientist roles seem to have the highest attrition.
-  - Dissatisfaction rates are relatively high across roles, but especially noticeable for Healthcare Representative and Sales Executive positions.
+  - Employees in Laboratory Technician and Sales Executive roles seem to have the highest attrition.
+  - Dissatisfaction rates are relatively high across roles, but especially noticeable for Research Scientist and Sales Executive positions.
   - Job satisfaction levels vary, with a significant number of employees marking “Dissatisfied” and “Satisfied” rather than “Very Satisfied.” This might suggest that improvements in workplace culture, compensation, or work-life balance could help elevate satisfaction levels.
 
 #### 7. Marital Status of Employees
@@ -83,7 +83,7 @@ The majority of attrition is occurring among employees aged 25-34 and 35-44. You
 
 ### Key Recommendations:
 1. Focus on High-Attrition Departments: Address specific issues in HR and Sales. Conduct focus groups or interviews to understand concerns and tailor retention strategies accordingly.
-2. Enhance Employee Satisfaction: Job roles with high dissatisfaction (e.g., Healthcare Representative, Sales Executive) might benefit from improved work-life balance, career development opportunities, and clearer paths for advancement.
+2. Enhance Employee Satisfaction: Job roles with high dissatisfaction (e.g., Research Scientist, Sales Executive ) might benefit from improved work-life balance, career development opportunities, and clearer paths for advancement.
 3. Retention Strategies for Younger Employees: Implement targeted programs for younger employees to improve retention, such as mentorship, career growth opportunities, and clear pathways to promotion.
 4. Gender-Specific Retention Efforts: With higher attrition among males, investigate if certain roles or policies are disproportionately affecting male employees and adjust accordingly.
 5. Boosting Satisfaction Across Roles: Since few employees report being “Very Satisfied,” conduct employee engagement surveys and explore initiatives that can improve satisfaction and workplace culture across the board.
