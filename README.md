@@ -12,7 +12,18 @@ There are several factors contributing to employee attrition, which are some of 
 - Workload: If an employee is overloaded with work, it could cause high stress levels, decreased productivity, and potential resignation. Contrastingly, if employees have limited tasks, they feel disengaged from the workplace and would seek opportunities elsewhere.
 -  Manager's Attitude: Employees might choose to leave if they struggle with their manager’s ineffective leadership or mismanagement style.
 
-#### Data Analysis
+### Data Sources
+The dataset for this analysis was shared on the Incubator hub Learning Management System.
+
+### Tools Used:
+The tool used for the analysis are;
+
+- Microsoft Excel 
+    1. For Data Cleaning
+    2. For Analysis
+- Power BI
+    1. Data Transformation
+    2. Data Visualisation
 
 #### 1. Overall Attrition Metrics
   - Total Employees: 1,470
