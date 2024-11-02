@@ -5,7 +5,7 @@
 ### Project Objective
 The goal of this HR data is to analyse employee data to uncover patterns related to attrition, job satisfaction, and other HR metrics. The insights gained can guide organizational strategies to improve employee retention, satisfaction, and overall HR management.
 
-#### Attrition Analysis
+### Attrition Analysis
 There are several factors contributing to employee attrition, which are some of the listed below.
 - Pay benefits: Staff who feel they are not paid fairly or that some other company will pay them higher, will lead to them being dissatisfied. This eventually causes them to leave.
 - Role mismanagement: This can happen when the employee perceives their job scope to be ambiguous or disconnected.
@@ -23,7 +23,16 @@ The tool used for the analysis are;
     2. For Analysis
 - Power BI
     1. Data Transformation
-    2. Data Visualisation
+    2. Data Cleaning
+    3. Data Visualisation
+
+### Data Visualisation
+This is presenting the result found using, card, donut chart, pie chart stacked column chart, clustered column chart, table, matrix, and slicer to filter.
+
+![HR Data Dashboard](https://github.com/user-attachments/assets/a593de6f-2b99-4c37-bec5-ab4e05c34bcb)
+
+![HR Data Dashboard 2](https://github.com/user-attachments/assets/8d25cbcc-7dc1-429e-8e5f-08b85b293ffe)
+
 
 #### 1. Overall Attrition Metrics
   - Total Employees: 1,470
