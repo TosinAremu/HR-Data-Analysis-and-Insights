@@ -74,7 +74,7 @@ The majority of attrition is occurring among employees aged 25-34 and 35-44. You
   - Job satisfaction levels vary, with a significant number of employees marking “Dissatisfied” and “Satisfied” rather than “Very Satisfied.” This might suggest that improvements in workplace culture, compensation, or work-life balance could help elevate satisfaction levels.
 
 #### 7. Marital Status of Employees
-  - The majority of employees are married (718), followed by single (198). Divorced employees are significantly fewer.
+  - The majority of employees are married (589), followed by single (350). Divorced employees are significantly fewer.
   - Marital status could impact employee needs, with married employees potentially valuing stability and work-life balance. Tailoring benefits and policies that address these needs could positively influence retention, especially for employees in departments with high attrition.
 
 #### 8. Educational Field Distribution
