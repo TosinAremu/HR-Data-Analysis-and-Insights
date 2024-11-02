@@ -60,10 +60,10 @@ High attrition in HR and Sales suggests potential issues in these departments, p
 Males are experiencing a higher rate of attrition compared to females. This could be due to various reasons, such as job role challenges, satisfaction, or potential external opportunities more accessible to males in this specific company context.
 
 #### 5. Attrition by Age Group
-  - Under 25: 38 (27 males, 11 females)
-  - 25-34: 61 (43 males, 18 females)
-  - 35-44: 23 (14 males, 9 females)
-  - 45-54: 9 (1 male, 8 females)
+  - Under 25: 38 (20 males, 18 females)
+  - 25-34: 112 (69 males, 43 females)
+  - 35-44: 51 (37 males, 14 females)
+  - 45-54: 25 (16 male, 9 females)
   - Over 55: 11 (8 males, 3 females)
 
 The majority of attrition is occurring among employees aged 25-34 and under 25. Younger employees might be more transient, seeking career growth or new opportunities elsewhere. This high turnover rate in younger age groups might indicate a need for improved onboarding, training, and engagement for new and early-career employees.
