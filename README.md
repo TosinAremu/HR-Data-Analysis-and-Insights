@@ -50,8 +50,8 @@ A 16% attrition rate indicates that the company experiences moderate employee tu
 High attrition in R&D and Sales suggests potential issues in these departments, possibly related to job satisfaction, workload, or compensation. HR has a much lower attrition rate, which might imply more stability or better employee satisfaction in that department.
 
 #### 3. Attrition by Educational Field
-  - Attrition numbers across fields show that Life Sciences and Human Resources have relatively high attrition counts, while Marketing and Medical fields show moderate numbers.
-  - Employees with backgrounds in fields such as Life Sciences, Marketing, and Human Resources may require additional retention strategies, especially if these skills are critical to the company’s success.
+  - Attrition numbers across fields show that Life Sciences and Medical have relatively high attrition counts, while Marketing and Technical Dergree fields show moderate numbers.
+  - Employees with backgrounds in fields such as Life Sciences, Medical, and Marketing may require additional retention strategies, especially if these skills are critical to the company’s success.
 
 #### 4. Attrition by Gender
   - Male: 150 attritions (63.3%).
