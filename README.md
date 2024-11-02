@@ -66,7 +66,7 @@ Males are experiencing a higher rate of attrition compared to females. This coul
   - 45-54: 25 (16 male, 9 females)
   - Over 55: 11 (8 males, 3 females)
 
-The majority of attrition is occurring among employees aged 25-34 and under 25. Younger employees might be more transient, seeking career growth or new opportunities elsewhere. This high turnover rate in younger age groups might indicate a need for improved onboarding, training, and engagement for new and early-career employees.
+The majority of attrition is occurring among employees aged 25-34 and 35-44. Younger employees might be more transient, seeking career growth or new opportunities elsewhere. This high turnover rate in younger age groups might indicate a need for improved onboarding, training, and engagement for new and early-career employees.
 
 #### 6. Job Role and Satisfaction Analysis
   - Employees in Laboratory Technician and Research Scientist roles seem to have the highest attrition.
