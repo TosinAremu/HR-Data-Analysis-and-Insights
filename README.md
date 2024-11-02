@@ -78,11 +78,11 @@ The majority of attrition is occurring among employees aged 25-34 and 35-44. You
   - Marital status could impact employee needs, with married employees potentially valuing stability and work-life balance. Tailoring benefits and policies that address these needs could positively influence retention, especially for employees in departments with high attrition.
 
 #### 8. Educational Field Distribution
-  - Employees are distributed across various fields with Life Sciences, Human Resources, and Marketing making up the largest numbers.
-  - Employees from Medical and Other fields also represent significant portions, suggesting a diverse educational background in the workforce. This diversity could be a strength, but may also present unique challenges in aligning engagement and retention strategies.
+  - Employees are distributed across various fields with Life Sciences, Medical, and Marketing making up the largest numbers.
+  - Employees from Technical Degree and Other fields also represent significant portions, suggesting a diverse educational background in the workforce. This diversity could be a strength, but may also present unique challenges in aligning engagement and retention strategies.
 
 ### Key Recommendations:
-1. Focus on High-Attrition Departments: Address specific issues in HR and Sales. Conduct focus groups or interviews to understand concerns and tailor retention strategies accordingly.
+1. Focus on High-Attrition Departments: Address specific issues in R&D and Sales. Conduct focus groups or interviews to understand concerns and tailor retention strategies accordingly.
 2. Enhance Employee Satisfaction: Job roles with high dissatisfaction (e.g., Research Scientist, Sales Executive ) might benefit from improved work-life balance, career development opportunities, and clearer paths for advancement.
 3. Retention Strategies for Younger Employees: Implement targeted programs for younger employees to improve retention, such as mentorship, career growth opportunities, and clear pathways to promotion.
 4. Gender-Specific Retention Efforts: With higher attrition among males, investigate if certain roles or policies are disproportionately affecting male employees and adjust accordingly.
