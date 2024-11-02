@@ -43,11 +43,11 @@ This is presenting the result found using, card, donut chart, pie chart stacked 
 A 16% attrition rate indicates that the company experiences moderate employee turnover. This could be a concern if certain departments or roles have higher attrition rates, as they may be experiencing particular challenges or dissatisfaction.
 
 #### 2. Attrition by Department
-  - HR: 133 attritions, which is 56.1% of total attrition.
+  - R&D: 133 attritions, which is 56.1% of total attrition.
   - Sales: 92 attritions, 38.8%.
-  - R&D: 12 attritions, 5.1%.
+  - HR: 12 attritions, 5.1%.
 
-High attrition in HR and Sales suggests potential issues in these departments, possibly related to job satisfaction, workload, or compensation. R&D has a much lower attrition rate, which might imply more stability or better employee satisfaction in that department.
+High attrition in R&D and Sales suggests potential issues in these departments, possibly related to job satisfaction, workload, or compensation. HR has a much lower attrition rate, which might imply more stability or better employee satisfaction in that department.
 
 #### 3. Attrition by Educational Field
   - Attrition numbers across fields show that Life Sciences and Human Resources have relatively high attrition counts, while Marketing and Medical fields show moderate numbers.
